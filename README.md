@@ -39,7 +39,7 @@ A visually engaging short film project showcasing cultural stories, edited using
 
 ### 🎨 **3D Diorama: *City of Dreams***  
 An interactive mini-diorama built in Unity, featuring lighting effects, animations, and user interactivity.  
-![Diorama GIF](https://media.giphy.com/media/3ohs7Lr8izIMpnMjkQ/giphy.gif)
+
 
 ---
 
@@ -58,4 +58,4 @@ Here's a snapshot of my GitHub activity:
 
 ✨ Let’s connect and create something amazing together!  
 📧 **Email:** [basmalahhithnawe@gmail.com]  
-💼 **Portfolio:** [Link to Portfolio or Website]  
+
