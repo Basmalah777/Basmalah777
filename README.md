@@ -17,7 +17,7 @@ I’m on a journey to blend art, technology, and storytelling—whether it’s t
 ## 🛠️ Skills & Tools:  
 ### 🎨 **Design & Animation**:  
 - Adobe Photoshop & Illustrator  
-- Blender for 3D Modeling and Animation  
+- Maya for 3D Modeling and Animation  
 
 ### 🎮 **Game Development**:  
 - Unity Engine  
