@@ -28,7 +28,7 @@ Hello! I’m **[Basmalah Hithnawe]**, a passionate **Multimedia Student** at the
 Here's a snapshot of my GitHub activity:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basmalah777&show_icons=true&theme=radical)
 ---
-![Game GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![Multimedia GIF](https://media.giphy.com/media/your_gif_link_here/giphy.gif)
 ---
 ✨ Let’s connect and create something amazing together!  
 📧 **Email:** [basmalahhithnawe@gmail.com]  
